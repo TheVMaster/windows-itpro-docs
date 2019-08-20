@@ -49,8 +49,8 @@ The following table lists the minimum Windows 10 version that supports Delivery 
 |------------------|---------------|
 | Windows 10 updates (feature updates and quality updates) | 1511 |
 | Windows 10 drivers | 1511 |
-| Windows Store files | 1511 |
-| Windows Store for Business files | 1511 |
+|Microsoft Store files | 1511 |
+| Microsoft Store for Business files | 1511 |
 | Windows Defender definition updates | 1511 |
 | Office Click-to-Run updates | 1709 |
 | Win32 apps for Intune | 1709 |
